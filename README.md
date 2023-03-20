@@ -3,7 +3,7 @@
 ## What is this?
 This is a simple [Google's Protocol Buffers](https://protobuf.dev/) compiler for C.
 
-## LI Usage?
+## CLI Usage?
 
 `bin/protoc -h`
 

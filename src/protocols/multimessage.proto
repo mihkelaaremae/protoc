@@ -1,0 +1,11 @@
+message Query
+{
+  required string query = 1;
+  repeated string tags = 2;
+}
+
+message Response
+{
+  required string response = 1;
+  optional int32 code = 2;
+}
